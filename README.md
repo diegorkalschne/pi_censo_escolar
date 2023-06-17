@@ -2,7 +2,7 @@
 Script Python desenvolvido para a disciplina de Projeto Integrador do 5º semestre de Ciência da Computação da Unijuí
 
 ## About
-O projeto realiza o processamento de dados do Censo Escolar através dos datasets baixados através dos links abaixo:
+O projeto realiza o processamento de dados do Censo Escolar através dos datasets baixados através dos links abaixo: </br>
 [Censo Escolar](https://www.gov.br/inep/pt-br/acesso-a-informacao/dados-abertos/microdados/censo-escolar) </br>
 [Datasus](http://tabnet.datasus.gov.br/cgi/deftohtm.exe?ibge/cnv/popsvsbr.def)
 
